@@ -1,6 +1,7 @@
 # Discord Web3.0 Clone
 
 - Building a Web 3.0 Application with Next JS
+- Group chat and individual chat functionality
 - Decentralised node run by Gun.js 
 - State management using Context API
 - Adding Web 3.0 authentication using Metamask
